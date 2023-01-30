@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Ansely.Utility.EmailSender</PackageId>
     <Title>Ansely.Utility.EmailSender</Title>
-    <Version>1.1.0-rc</Version>
+    <Version>1.1.0</Version>
     <Authors>Ansely</Authors>
     <Company>Ansely</Company>
     <Description>This is a convenient email sender package that allows you to customize email message templates.</Description>
@@ -15,6 +15,7 @@
     <PackageTags>Email;EmailSender;Ansely;</PackageTags>
 	<GenerateDocumentationFile>true</GenerateDocumentationFile>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageReleaseNotes>Chinese notes have been added.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
